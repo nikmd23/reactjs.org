@@ -1,6 +1,6 @@
 {
-  "settings": {
+	"settings": {
 		"workbench.experimental.gettingStarted": true,
 		"workbench.startupEditor": "gettingStarted"
 	}
-  }
+}
