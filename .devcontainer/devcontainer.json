@@ -1,10 +1,6 @@
 {
   "settings": {
-		"terminal.integrated.shell.linux": "/bin/bash",
 		"workbench.experimental.gettingStarted": true,
 		"workbench.startupEditor": "gettingStarted"
-	},
-  "build": {
-		"dockerfile": "Dockerfile",
 	}
-}
+  }
